@@ -153,22 +153,18 @@ app/build/outputs/apk/debug/app-debug.apk
     <tr>
       <td><img src="screenshots/ipv4-calculator.jpeg" width="250" alt="IPv4 Calculator"></td>
       <td><img src="screenshots/ipv6-calculator.jpeg" width="250" alt="IPv6 Calculator"></td>
-      <td><img src="screenshots/vlsm-calculator.jpeg" width="250" alt="VLSM Calculator"></td>
     </tr>
     <tr>
       <td align="center"><b>IPv4 Calculator</b></td>
       <td align="center"><b>IPv6 Calculator</b></td>
-      <td align="center"><b>VLSM Calculator</b></td>
     </tr>
     <tr>
       <td><img src="screenshots/subnet-table.jpeg" width="250" alt="Subnet Table"></td>
-      <td></td>
-      <td></td>
+      <td><img src="screenshots/vlsm-calculator.jpeg" width="250" alt="VLSM Calculator"></td>
     </tr>
     <tr>
       <td align="center"><b>Subnet Table</b></td>
-      <td></td>
-      <td></td>
+      <td align="center"><b>VLSM Calculator</b></td>
     </tr>
   </table>
 </div>
